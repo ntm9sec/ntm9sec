@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a security researcher and firmware developer focused on offensive security, low-level programming, and embedded systems. I build tools, break things ethically, and contribute to the security community.
+I'm a security researcher and firmware developer focused on offensive security. I build tools, break things ethically, and contribute to the security community.
 
 - Currently working on **firmware analysis & exploit development**
 - Deep-diving into **reverse engineering & IoT security**
